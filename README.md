@@ -15,7 +15,7 @@ Este é um projeto em Python para analisar arquivos de log do jogo Quake 3 Arena
 https://github.com/AnaVitoriaRM/Analise_Log_Quake.git
 
 2. Navegue até o diretório do projeto:
-cd Project-cloudwalk-tests
+cd Analise_Log_Quake
 
 3. Execute o script para analisar o arquivo de log:
 python analyze_log.py
